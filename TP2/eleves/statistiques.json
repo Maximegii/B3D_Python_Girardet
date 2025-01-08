@@ -1,0 +1,27 @@
+{
+    "titi": {
+        "moyenne": 13.333333333333334,
+        "min": 10,
+        "max": 17
+    },
+    "toto": {
+        "moyenne": 14.666666666666666,
+        "min": 11,
+        "max": 19
+    },
+    "tata": {
+        "moyenne": 12.0,
+        "min": 8,
+        "max": 15
+    },
+    "tutu": {
+        "moyenne": 14.0,
+        "min": 13,
+        "max": 15
+    },
+    "tete": {
+        "moyenne": "Pas de note enregistre",
+        "min": "Pas de note enregistre",
+        "max": "Pas de note enregistre"
+    }
+}

@@ -1,0 +1,14 @@
+BoxLayout:
+    orientation: 'vertical'
+    Label:
+        id: label
+        text: 'Entrez le numéro de la boisson que vous souhaitez :'
+    TextInput:
+        id: text_input
+        multiline: False
+    Button:
+        text: 'Valider'
+        on_press: app.on_button_press(self)
+    Label:
+        id: result_label
+        text: ''

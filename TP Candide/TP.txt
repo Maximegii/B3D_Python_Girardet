@@ -1,0 +1,6 @@
+A partir du fichier candide.txt
+Générer le fichier CandideGen.txt
+Compter le nombre de mots, de phrases, de mots et de voyelle.
+Donner les 5 mots les plus employés et les 5 mots supérieur à 7 lettres les plus employés.
+
+merci de me transmettre le programme python au format txt à l'adresse suivante :  charlene.r@patas-monkey.com
